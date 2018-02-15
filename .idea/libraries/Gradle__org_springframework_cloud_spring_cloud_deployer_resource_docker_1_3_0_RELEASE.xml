@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-deployer-resource-docker:1.3.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-deployer-resource-docker/1.3.0.RELEASE/cd20fcc054cc8400960a599f8b7cc2813d777696/spring-cloud-deployer-resource-docker-1.3.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-deployer-resource-docker/1.3.0.RELEASE/cda52447359e741344a26f94931b507ba585d440/spring-cloud-deployer-resource-docker-1.3.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

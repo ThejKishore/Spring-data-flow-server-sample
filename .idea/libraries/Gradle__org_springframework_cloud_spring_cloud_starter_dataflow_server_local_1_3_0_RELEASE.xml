@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-dataflow-server-local:1.3.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-dataflow-server-local/1.3.0.RELEASE/f00ad73e28944286f1a38828482563a2173f5c05/spring-cloud-starter-dataflow-server-local-1.3.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-dataflow-server-local/1.3.0.RELEASE/ff5356f4aabe1f38ba4caf84af82861a92003d31/spring-cloud-starter-dataflow-server-local-1.3.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

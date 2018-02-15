@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-deployer-resource-maven:1.3.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-deployer-resource-maven/1.3.0.RELEASE/e582b29fa700654ceb9d45ffe277f5f7d0adbc01/spring-cloud-deployer-resource-maven-1.3.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-deployer-resource-maven/1.3.0.RELEASE/1e5c1ad6057c4b5e1a241ee373adbe5f28572d33/spring-cloud-deployer-resource-maven-1.3.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

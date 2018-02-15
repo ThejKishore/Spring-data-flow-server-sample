@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-configuration-metadata:1.5.10.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-metadata/1.5.10.RELEASE/a2e9baa90dfe06c10b8ca434ba65137da0173197/spring-boot-configuration-metadata-1.5.10.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-metadata/1.5.10.RELEASE/a832f63b7f9ea6eac2fd68ac63681b7b20a97666/spring-boot-configuration-metadata-1.5.10.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

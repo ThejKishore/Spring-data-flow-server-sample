@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-dataflow-server-core:1.3.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-dataflow-server-core/1.3.0.RELEASE/4af0002613104a6aa242adb09315e8c3aecc59d4/spring-cloud-dataflow-server-core-1.3.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-dataflow-server-core/1.3.0.RELEASE/d78ebff9a93410620f61030802dca4350fa2546b/spring-cloud-dataflow-server-core-1.3.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

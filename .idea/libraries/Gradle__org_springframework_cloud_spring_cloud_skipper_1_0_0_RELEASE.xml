@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-skipper:1.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-skipper/1.0.0.RELEASE/67592981bbab01d73a9e90dab156474a69c89d63/spring-cloud-skipper-1.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-skipper/1.0.0.RELEASE/acf0e8f11364c15bb0cff61832d37bb714dd4d15/spring-cloud-skipper-1.0.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
